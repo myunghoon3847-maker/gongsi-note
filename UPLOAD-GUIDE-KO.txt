@@ -1,0 +1,18 @@
+공시노트 v3.2.1 GitHub Pages 업데이트 안내
+
+1. 이 폴더 안의 파일 6개를 GitHub Pages가 배포되는 위치에 모두 업로드합니다.
+   - index.html
+   - sw.js
+   - manifest.webmanifest
+   - icon.svg
+   - update.html
+   - .nojekyll
+
+2. GitHub 저장소 Settings > Pages에서 실제 배포 Branch와 폴더가 맞는지 확인합니다.
+
+3. GitHub Pages 반영을 기다린 뒤, 기존 사이트 주소 뒤에 /update.html 을 붙여 한 번 엽니다.
+   예: https://사용자명.github.io/저장소명/update.html
+
+4. 자동으로 최신 index.html로 이동하면 상단 버전이 v3.2.1인지 확인합니다.
+
+※ update.html은 서비스 워커와 Cache Storage만 정리하며 localStorage의 학습 기록은 삭제하지 않습니다.

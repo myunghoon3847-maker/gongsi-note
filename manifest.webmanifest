@@ -1,14 +1,16 @@
 {
+  "id": "./",
   "name": "공시노트 - 행정·복지 직렬 학습",
   "short_name": "공시노트",
-  "start_url": "./index.html",
+  "start_url": "./index.html?v=3.2.1",
+  "scope": "./",
   "display": "standalone",
   "background_color": "#f4f5f2",
   "theme_color": "#2f5d50",
   "lang": "ko-KR",
   "icons": [
     {
-      "src": "icon.svg",
+      "src": "./icon.svg",
       "sizes": "any",
       "type": "image/svg+xml",
       "purpose": "any maskable"
