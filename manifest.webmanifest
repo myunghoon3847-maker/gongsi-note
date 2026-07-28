@@ -1,5 +1,5 @@
 {
-  "name": "공시노트 v3.0.1",
+  "name": "공시노트 - 행정·복지 직렬 학습",
   "short_name": "공시노트",
   "start_url": "./index.html",
   "display": "standalone",
@@ -13,5 +13,6 @@
       "type": "image/svg+xml",
       "purpose": "any maskable"
     }
-  ]
+  ],
+  "description": "제주 지방직 9급 일반행정·사회복지 직렬 학습 관리 앱"
 }
